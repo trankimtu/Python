@@ -2,7 +2,7 @@
 
 ## Installation:
   01. Install Python: Pick folder C:\Python
-  02. Set path: 
+  02. Set path:
     - windows + break
     - Advanced system settings
     - Environment Variables
