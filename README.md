@@ -15,7 +15,7 @@
   ```
     pip3 install numpy
   ```
-## 
+## Files content
   01. Output to console
   02. Data type
   03. User input
