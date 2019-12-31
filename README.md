@@ -10,4 +10,8 @@
     
   Visual Studio Code:
     Install python extension (from Microsoft)
-    
+  
+  Install 3rd party Numpy
+  ```
+    pip3 install numpy
+  ```
