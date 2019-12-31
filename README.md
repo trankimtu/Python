@@ -11,7 +11,7 @@
   03. Visual Studio Code:
     - Install python extension (from Microsoft)
   
-  04 Install 3rd party Numpy
+  04. Install 3rd party Numpy
   ```
     pip3 install numpy
   ```
