@@ -1,17 +1,17 @@
 # Python
 
 ## Installation:
-  Install Python: Pick folder C:\Python
-  Set path: 
-    windows + break
-    Advanced system settings
-    Environment Variables
-    System Variables / path / Edit / New --> Type address "C:\Python"
+  01. Install Python: Pick folder C:\Python
+  02. Set path: 
+    - windows + break
+    - Advanced system settings
+    - Environment Variables
+    - System Variables / path / Edit / New --> Type address "C:\Python"
     
-  Visual Studio Code:
-    Install python extension (from Microsoft)
+  03. Visual Studio Code:
+    - Install python extension (from Microsoft)
   
-  Install 3rd party Numpy
+  04 Install 3rd party Numpy
   ```
     pip3 install numpy
   ```
