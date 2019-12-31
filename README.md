@@ -1,6 +1,6 @@
 # Python
 
-##Installation:
+## Installation:
   Install Python: Pick folder C:\Python
   Set path: 
     windows + break
@@ -15,3 +15,8 @@
   ```
     pip3 install numpy
   ```
+## 
+Markup : 
+  1.
+
+  2.
