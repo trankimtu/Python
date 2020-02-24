@@ -1,4 +1,52 @@
+int
+if(float)bool
+if+1*(a+3)/8
+==
+==
+==
+==
+==
+==
+
 while (fahr < upper) a = 23.00 whileend
+==
+==
+==
+==
+==
+==
+
+! Find largest value between two numbers!
+int num1, num2, large$
+if(num1 > num2)
+{
+	large = num1$;
+}
+else
+{
+	large = num2$;
+}
+
+==
+==
+==
+==
+==
+==
+$12a
+a$1b_
+1a
+a+1b
+
+(1a) + 2b(c+d)
+e+2d
+int float bool true false if else then endif whileend
+
+test failure
+end test failure
+
+a_bc
+a1bc_
 
 
 aaabbb ccc 'ddd'

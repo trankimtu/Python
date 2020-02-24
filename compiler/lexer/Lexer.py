@@ -14,6 +14,9 @@ Lexer = Lexical Analyser
 def removeComment(sourceCode): pass
 def isIdentifier(lexeme): pass
 def numberHandler(numberString): pass
+def wholeWordHandler(wholeWordString): pass
+def partialWordHandler(partialWordString): pass
+def library(): pass
 
 class Lexer(object):
      def __init__(self, sourceCode):
@@ -22,62 +25,9 @@ class Lexer(object):
      # tokenize method - create token from file input
      def tokenize(self):
           # print('This line in tokenize')
-          
+          # Initial parameter.
+          keywordList, operator, separator, separatorList, allSpecialKeys = library()
 
-          # Define keyword
-          keywordLib =   [
-          'int', 
-          'float', 
-          'bool', 
-          'true', 
-          'false', 
-          'if', 
-          'else', 
-          'then', 
-          'endif', 
-          'while', 
-          'whileend', 
-          'do', 
-          'doend', 
-          'for', 
-          'forend', 
-          'input', 
-          'output', 
-          'and', 
-          'or', 
-          'not',
-          ]
-
-          # Define Operator
-          operator = [
-               '+',
-               '-',
-               '*',
-               '/',
-               '=',
-               '>',
-               '<',
-               '%',
-               '==',
-               '>=',
-               '<=',
-          ]
-         
-          # Define Separator
-          separator = {
-
-                    # '(){}[],.:;
-               'singleQuote'        : "'",
-               'openParenthesis'    : '(',
-               'closeParenthesis'   : ')',
-               'openBrace'          : '{',
-               'closeBrace'         : '}',
-               'openBracket'        : '[',
-               'closeBracket'       : ']',
-               'comma'              : ',',
-               'semicolon'          : ';',
-          }
-          
           sourceCode = self.sourceCode
 
           # ===============================================
@@ -88,11 +38,6 @@ class Lexer(object):
           sourceCode, checkSingleQuotes = removeComment(sourceCode)
           # print('checkSingleQuotes = ', checkSingleQuotes)
 
-          # create separatorList from separator dictionary
-          separatorList = list(separator.values())
-
-          allSpecialKeys = operator + separatorList
-
           # All lexeme will stored in lexeme list 
           lexeme = []
 
@@ -102,140 +47,76 @@ class Lexer(object):
           # Check every single word in word list and append to lexeme
           for word in wordList:
 
-               # Check whole word is key word, word not contain key =============
-               if word in keywordLib:
-                    lexeme.append({'KEYWORD': f'{word}'})
-                    continue
-
-               # Check whole word is operator
-               if word in operator:
-                    lexeme.append({'OPERATOR': f'{word}'})
-                    continue
-
-               # Check whole word is separator
-               if word in separatorList:
-                    lexeme.append({'SEPARATOR': f'{word}'})
-                    continue
-
-               # Check whole word is number
-               isNumber, value, dataType = numberHandler(word)
-               if isNumber == True:
-                    lexeme.append({f'{dataType}': f'{value}'})
-                    continue
-
-               # Check word not contain any key = should be identifier
-               isExistKey = False
-               for key in allSpecialKeys:
-                    if key in word:
-                         isExistKey = True
-                         break
-               if isExistKey == False:
-                    if isIdentifier(word) == True:
-                         lexeme.append({'IDENTIFIER': f'{word}'})
-                    else:
-                         lexeme.append({'ERROR': f'{word}'})
-                         print('whole keyword identifier error')
+               # Check whole word is key word, word not contain any key =============
+               
+               if word in keywordList:
+                    key, value = wholeWordHandler(word)
+                    lexeme.append({f'{key}': f'{value}'})
                     continue
 
                # Word contain key ==============================================
-               begin = 0
-               i = 0
+               else:
+                    begin = 0
+                    i = 0
 
-               # print('len(word) = ', len(word))
-               while i < len(word):
-                    # print('Start while loop i = ', i)
-                    # print('Start while loop len(word) = ', len(word))
-                    # print('len(word[begin:i]) = ', len(word[begin:i]))
+                    while i < len(word):
+                         # Found double keyword Operator
+                         if i + 1 < len(word) and (word[i] + word[i+1]) in operator:
 
-                    # double key word Operator
-                    if i + 1 < len(word) and (word[i] + word[i+1]) in operator:
+                              # whatever before keyword is a lexeme
+                              if len(word[begin:i]) >= 1 :
+                                   key, value = wholeWordHandler(word[begin:i])
+                                   lexeme.append({f'{key}': f'{value}'})
 
-                         # whatever before keyword is a token
-                         if len(word[begin:i]) >= 1 :
-                              isNumber, value, dataType = numberHandler(word[begin:i])
-                              if isNumber == True:
-                                   lexeme.append({f'{dataType}': f'{value}'})
+                              # Double keyword is a lexeme
+                              lexeme.append({'OPERATOR': f'{word[i]+word[i+1]}'})
 
-                              elif isIdentifier(word[begin:i]) == True:
-                                   lexeme.append({'IDENTIFIER': f'{word[begin:i]}'})
-                              else:
-                                   lexeme.append({'ERROR': f'{word[begin:i]}'})
-                                   print('Identifer before double keyword is not qualify')
+                              begin = i+2
+                              i = begin
 
-                         # Double keyword is a token
-                         lexeme.append({'OPERATOR': f'{word[i]+word[i+1]}'})
+                         # Found single keyword Operator
+                         elif word[i] in operator: 
+                              # print ('i in SINGLE keyword BEFPORE process = ', i)
 
-                         begin = i+2
-                         i = begin
+                              # Whatever before i is a Lexeme
+                              if len(word[begin:i]) >= 1:
+                                   key, value = wholeWordHandler(word[begin:i])
+                                   lexeme.append({f'{key}': f'{value}'})
 
-                    # single keyword Operator
-                    elif word[i] in operator: 
-                         # print ('i in SINGLE keyword BEFPORE process = ', i)
+                              # Single keyword is a Operator
+                              lexeme.append({'OPERATOR': f'{word[i]}'})
 
-                         # Whatever before i is a Lexeme
-                         if len(word[begin:i]) >= 1:
+                              begin = i+1
+                              i = begin
+                         
+                         # Found Separator
 
-                              isNumber, value, dataType = numberHandler(word[begin:i])
-                              if isNumber == True:
-                                   lexeme.append({f'{dataType}': f'{value}'})
+                         elif word[i] in separatorList: 
 
-                              elif isIdentifier(word[begin:i]) == True:
-                                   lexeme.append({'IDENTIFIER': f'{word[begin:i]}'})
-                              else:
-                                   lexeme.append({'ERROR': f'{word[begin:i]}'})
-                                   print('Identifer before Single Operator is not qualify')
+                              # Whatever before i is a lexeme
+                              if len(word[begin:i]) >= 1:
+                                   key, value = wholeWordHandler(word[begin:i])
+                                   lexeme.append({f'{key}': f'{value}'})
 
-                              
+                              # Single keyword is a Separator
+                              lexeme.append({'SEPARATOR': f'{word[i]}'})
 
-                         # Single keyword is a Operator
-                         lexeme.append({'OPERATOR': f'{word[i]}'})
+                              begin = i+1
+                              i = begin
 
-                         begin = i+1
-                         i = begin
-                    
-                    # Separator
-                    elif word[i] in separatorList: 
-
-                         # Whatever before i is a Identifier
-                         if len(word[begin:i]) >= 1:
-                              isNumber, value, dataType = numberHandler(word[begin:i])
-                              if isNumber == True:
-                                   lexeme.append({f'{dataType}': f'{value}'})
-                              elif isIdentifier(word[begin:i]) == True:
-                                   lexeme.append({'IDENTIFIER': f'{word[begin:i]}'})
-                              else:
-                                   lexeme.append({'ERROR': f'{word[begin:i]}'})
-                                   print('Identifer before Single Separator is not qualify')
-
-                         # Single keyword is a Separator
-                         lexeme.append({'SEPARATOR': f'{word[i]}'})
-
-                         begin = i+1
-                         i = begin
-
-                    else:
-                         # no key word found, from the last keyword to end
-                         if i == len(word) - 1:
+                         # no key word found, from the last keyword to end is a lexeme
+                         else:
+                              if i == len(word) - 1:
                                    if len(word[begin:(i+1)]) >= 1:
-                                        # print('word = ', word)
-                                        # print('begin = ', begin)
-                                        # print('i + 1 = ', i + 1)
-                                        # print('len(word) - 1 = ', len(word) - 1)
-                                        isNumber, value, dataType = numberHandler(word[begin:(i+1)])
-                                        if isNumber == True:
-                                             lexeme.append({f'{dataType}': f'{value}'})
-                                        elif isIdentifier(word[begin:i+1]) == True:
-                                             lexeme.append({'IDENTIFIER': f'{word[begin:(i+1)]}'})
-                                        else:
-                                             lexeme.append({'ERROR': f'{word[begin:(i+1)]}'})
-                                             print('Identifer after last key word is not qualify aaa')
+                                        key, value = wholeWordHandler(word[begin:(i+1)])
+                                        lexeme.append({f'{key}': f'{value}'})
 
                                         i += 1
 
-                         else:
-                              i += 1
-               
-          
+                              else:
+                                   i += 1
+                    
+                    
 
           return lexeme
 
@@ -308,3 +189,126 @@ def numberHandler(numString):
                return True, numFloat, "FLOAT"
           except ValueError:
                return False, -1, "NAN"
+
+def wholeWordHandler(wholeWordString):
+     # Check whole word is key word, operator, separator or number. 
+     # The word is not a compound string which include leter or number with any of key
+     
+     keywordList, operator, separatorDict, separatorList, allSpecialKeys = library()
+     isNumber, value, dataType = numberHandler(wholeWordString)
+
+     if wholeWordString in keywordList:
+          return 'KEYWORD', wholeWordString
+
+     # Check wholeword is operator
+     elif wholeWordString in operator:
+          return 'OPERATOR', wholeWordString
+
+     # Check wholeword is separator
+     elif wholeWordString in separatorList:
+          return 'SEPARATOR', wholeWordString
+
+     # Check wholeword is number
+     elif isNumber == True:
+          return dataType, value
+     
+     # Check wholeword is identifier
+     else:
+          if isIdentifier(wholeWordString) == True:
+               return 'IDENTIFIER', wholeWordString
+          # The rest is Error
+          else:
+               return 'ERROR', wholeWordString
+
+     # for key in allSpecialKeys:
+     #      if key not in wholeWordString:
+     #           # Check is wholeword is keyword
+     #           if wholeWordString in keywordList:
+     #                return 'KEYWORD', wholeWordString
+
+     #           # Check wholeword is operator
+     #           elif wholeWordString in operator:
+     #                return 'OPERATOR', wholeWordString
+
+     #           # Check wholeword is separator
+     #           elif wholeWordString in separatorList:
+     #                return 'SEPARATOR', wholeWordString
+
+     #           # Check wholeword is number
+     #           elif isNumber == True:
+     #                return dataType, value
+               
+     #           # Check wholeword is identifier
+     #           else:
+     #                if isIdentifier(wholeWordString) == True:
+     #                     return 'IDENTIFIER', wholeWordString
+     #                # The rest is Error
+     #                else:
+     #                     return 'ERROR', wholeWordString
+
+
+
+def partialWordHandler(partialWordString): pass
+
+def library():
+     # Define keyword
+     keywordList =   [
+     'int', 
+     'float', 
+     'bool', 
+     'true', 
+     'false', 
+     'if', 
+     'else', 
+     'then', 
+     'endif', 
+     'while', 
+     'whileend', 
+     'do', 
+     'doend', 
+     'for', 
+     'forend', 
+     'input', 
+     'output', 
+     'and', 
+     'or', 
+     'not',
+     ]
+
+     # Define Operator
+     operator = [
+          '+',
+          '-',
+          '*',
+          '/',
+          '=',
+          '>',
+          '<',
+          '%',
+          '==',
+          '>=',
+          '<=',
+     ]
+     
+     # Define Separator
+     separatorDict = {
+
+               # '(){}[],.:;
+          'singleQuote'        : "'",
+          'openParenthesis'    : '(',
+          'closeParenthesis'   : ')',
+          'openBrace'          : '{',
+          'closeBrace'         : '}',
+          'openBracket'        : '[',
+          'closeBracket'       : ']',
+          'comma'              : ',',
+          'semicolon'          : ';',
+     }
+     
+     # create separatorList from separator dictionary
+     separatorList = list(separatorDict.values())
+
+     # allSpecialKeys contain both operator and separator. Not include keyword
+     allSpecialKeys = operator + separatorList
+
+     return keywordList, operator, separatorDict, separatorList, allSpecialKeys
