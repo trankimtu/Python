@@ -232,12 +232,6 @@ def isDefine1 (arg, begin):
 
 # <A2> -> <ID> = <ID> ;       a = b
 def isDefine2 (arg, begin):
-# B
-# 1
-# n
-# h
-# Tr 4 n 
-
 
     print()
     # print('arg in isDefine2 = ')
