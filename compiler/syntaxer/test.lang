@@ -10,3 +10,9 @@ g = false;
 h = i;
 j = l;
 m = n;
+
+a > b
+a < b
+
+a >= b
+a <= b
