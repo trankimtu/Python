@@ -38,15 +38,15 @@ def Statement(arg, begin):
     print (f'begin in Statement = {begin}')
 
     IsDeclarative, DeclarativeResult, DeclarativeBegin = isDeclarative(arg, begin)
-    # IsAssign, AssignResult, AssignBegin = isAssign(arg, begin)
+    IsAssign, AssignResult, AssignBegin = isAssign(arg, begin)
     # isIf(arg, begin)
     # isWhile(arg, begin)
     # isBegin(arg, begin)
     
     if IsDeclarative == True:
         IsStatement, stamentResult, statementBegin = IsDeclarative, DeclarativeResult, DeclarativeBegin
-    # elif IsAssign == True:
-    #     IsStatement, stamentResult, statementBegin = IsAssign, result, newBegin
+    elif IsAssign == True:
+        IsStatement, stamentResult, statementBegin = IsAssign, AssignResult, AssignBegin
 
     else:
         print('Not a statement')
@@ -99,6 +99,8 @@ def isExpression(arg, begin):
 
         if IsExpressionPrime == True:
             return True
+        else:
+            print(f'IsExpressionPrime = {IsExpressionPrime}')
 
     else:
         print ('Expression Error')
@@ -107,12 +109,19 @@ def isExpression(arg, begin):
 # End isExpression ================================
 
 def isAssign(arg, begin):
-    pass
-    # IsID, idKey, idValue = isID(arg[begin])
-    # if IsID == True:
-    #     opreatorKey, operatorValue = getKeyValue(arg[begin + 1])
-    #     if operatorValue == '=':
-    #         isExpression[begin + 2] =========================================================]
+    # pass
+    IsID, idKey, idValue = isID(arg[begin])
+    if IsID == True:
+        opreatorKey, operatorValue = getKeyValue(arg[begin + 1])
+        if operatorValue == '=':
+            IsExpression = isExpression(arg, begin + 2)
+            if IsExpression == True:
+                result = {
+                'Token': 'Declaration',
+                'BNF': '<Assign> -> <ID> = <Expression> ;'
+            }
+            newBegin = begin + 4
+        return True, result, newBegin
     
 def isIf(arg, begin):
     pass
