@@ -9,16 +9,22 @@ class Syntaxer (object):
         lexemes = list(self.lexemes[0])
 
         begin = 0
-
-        isStatement, result, newBegin = Statement(lexemes, begin)
-
-        print(f'isStatement = {isStatement}')
-        print(f'result = {result}')
-        print(f'newBegin = {newBegin}')
-        # Statement(lexemes, begin)
+        length = len(lexemes)
+        
+        # print('len(lexemes) = ', len(lexemes))
+        while begin < length:
 
 
-        print('len(lexemes) = ', len(lexemes))
+            isStatement, result, newBegin = Statement(lexemes, begin)
+
+            begin = newBegin
+
+            print(f'isStatement = {isStatement}')
+            print(f'result = {result}')
+            print(f'newBegin = {newBegin}')
+            # Statement(lexemes, begin)
+
+
 
 
      
@@ -67,17 +73,38 @@ def isDeclarative(arg, begin):
     else: 
         return False, -1, begin
 
+# End isDeclarative ================================ 
 
-def isExpression(*arg, begin):
-    IsTerm = isTerm()
-    IsExpressionPrime = isExpressionPrime
+def isTerm(termDict):
+    termKey, termValue = getKeyValue(termDict)
 
-    if IsTerm & IsExpressionPrime == False:
-        print (Error)
+    if termKey == 'IDENTIFER':
+        return True
+    else:
+        return False
 
 def isExpressionPrime (arg, begin):
-    pass
+    if arg[begin + 1] == '+' or arg[begin + 1] == '-':
+        IsTerm = isTerm(arg[begin + 2])
+        IsSemicolon = isSemicolon(arg[begin + 3])
+        if IsTerm & IsSemicolon == True:
+            return True
 
+
+def isExpression(arg, begin):
+    IsTerm = isTerm(arg[begin])
+
+    if IsTerm == True:
+        IsExpressionPrime = isExpressionPrime(arg, begin)
+
+        if IsExpressionPrime == True:
+            return True
+
+    else:
+        print ('Expression Error')
+
+
+# End isExpression ================================
 
 def isAssign(arg, begin):
     pass
@@ -119,13 +146,7 @@ def isRelop (relopDict):
         return False, 'Not a relop'
 
 
-def isTerm(termDict):
-    termKey, termValue = getKeyValue(termDict)
 
-    if termKey == 'IDENTIFER':
-        return True
-    else:
-        return False
 
 
 def isFactor(arg, begin):
