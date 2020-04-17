@@ -27,6 +27,7 @@ class Syntaxer (object):
 # End class here
 # ==============================================
 
+# All test will be call in Statement
 def Statement(arg, begin):
     print (f'begin in Statement = {begin}')
 
@@ -47,14 +48,7 @@ def Statement(arg, begin):
 
     return IsStatement, stamentResult, statementBegin
 
-def isAssign(arg, begin):
-    pass
-    # IsID, idKey, idValue = isID(arg[begin])
-    # if IsID == True:
-    #     opreatorKey, operatorValue = getKeyValue(arg[begin + 1])
-    #     if operatorValue == '=':
-    #         isExpression[begin + 2] =========================================================]
-
+# End Statement =================================
 
 def isDeclarative(arg, begin):
     IsType, typeKey, typeValue = isType(arg[begin])
@@ -73,6 +67,25 @@ def isDeclarative(arg, begin):
     else: 
         return False, -1, begin
 
+
+def isExpression(*arg, begin):
+    IsTerm = isTerm()
+    IsExpressionPrime = isExpressionPrime
+
+    if IsTerm & IsExpressionPrime == False:
+        print (Error)
+
+def isExpressionPrime (arg, begin):
+    pass
+
+
+def isAssign(arg, begin):
+    pass
+    # IsID, idKey, idValue = isID(arg[begin])
+    # if IsID == True:
+    #     opreatorKey, operatorValue = getKeyValue(arg[begin + 1])
+    #     if operatorValue == '=':
+    #         isExpression[begin + 2] =========================================================]
     
 def isIf(arg, begin):
     pass
@@ -81,10 +94,6 @@ def isWhile(arg, begin):
 def isBegin(arg, begin):
     pass
 
-def getKeyValue (mydict):
-    # print('dict = ', mydict)
-    for key, value in mydict.items():
-        return key, value
 
 
 def isType(typeDict):
@@ -109,14 +118,17 @@ def isRelop (relopDict):
     else:
         return False, 'Not a relop'
 
-def isExpression(*arg, begin):
-    pass
 
-def isTerm(*arg, begin):
-    pass
+def isTerm(termDict):
+    termKey, termValue = getKeyValue(termDict)
+
+    if termKey == 'IDENTIFER':
+        return True
+    else:
+        return False
 
 
-def isFactor(*arg, begin):
+def isFactor(arg, begin):
     
     IsID, IdKey, IdValue = isID(arg[begin])
     if IsID == True:
@@ -167,6 +179,15 @@ def isNum(numDict):
     else:
         return False, 'NAN Key', 'NAN Value' 
     
+
+
+# Support Method =======================================================
+
+def getKeyValue (mydict):
+    # print('dict = ', mydict)
+    for key, value in mydict.items():
+        return key, value
+
 def isSemicolon(semicolonDict):
     semicolonKey, semicolonValue = getKeyValue(semicolonDict)
     # semicolonValue = list(semicolonDic.values())[0]
