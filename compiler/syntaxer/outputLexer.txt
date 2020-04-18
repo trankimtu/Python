@@ -25,24 +25,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -84,24 +94,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -143,24 +163,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -202,24 +232,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -261,24 +301,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -320,24 +370,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -379,24 +439,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -438,24 +508,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -497,24 +577,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -556,24 +646,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -615,24 +715,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -674,24 +784,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -733,24 +853,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -792,24 +922,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -851,24 +991,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -910,24 +1060,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -969,24 +1129,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -1028,24 +1198,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -1087,24 +1267,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -1146,24 +1336,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -1205,24 +1405,34 @@ IDENTIFIER   = 	e
 OPERATOR     = 	=
 FLOAT        = 	2.2
 SEPARATOR    = 	;
-IDENTIFIER   = 	f
-OPERATOR     = 	=
-KEYWORD      = 	true
-SEPARATOR    = 	;
-IDENTIFIER   = 	g
-OPERATOR     = 	=
-KEYWORD      = 	false
-SEPARATOR    = 	;
 IDENTIFIER   = 	h
 OPERATOR     = 	=
 IDENTIFIER   = 	i
 SEPARATOR    = 	;
-IDENTIFIER   = 	j
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
 OPERATOR     = 	=
-IDENTIFIER   = 	l
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
 SEPARATOR    = 	;
-IDENTIFIER   = 	m
+IDENTIFIER   = 	z
 OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
 IDENTIFIER   = 	n
 SEPARATOR    = 	;
 IDENTIFIER   = 	a
@@ -1237,3 +1447,2466 @@ IDENTIFIER   = 	b
 IDENTIFIER   = 	a
 OPERATOR     = 	<=
 IDENTIFIER   = 	b
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	>
+IDENTIFIER   = 	b
+IDENTIFIER   = 	a
+OPERATOR     = 	<
+IDENTIFIER   = 	b
+IDENTIFIER   = 	a
+OPERATOR     = 	>=
+IDENTIFIER   = 	b
+IDENTIFIER   = 	a
+OPERATOR     = 	<=
+IDENTIFIER   = 	b
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;
+
+
+===============================================
+Output Lexer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+TOKEN 			LEXEME
+
+KEYWORD      = 	int
+IDENTIFIER   = 	a
+SEPARATOR    = 	;
+KEYWORD      = 	bool
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+KEYWORD      = 	float
+IDENTIFIER   = 	c
+SEPARATOR    = 	;
+IDENTIFIER   = 	d
+OPERATOR     = 	=
+INT          = 	1
+SEPARATOR    = 	;
+IDENTIFIER   = 	e
+OPERATOR     = 	=
+FLOAT        = 	2.2
+SEPARATOR    = 	;
+IDENTIFIER   = 	h
+OPERATOR     = 	=
+IDENTIFIER   = 	i
+SEPARATOR    = 	;
+OPERATOR     = 	%
+OPERATOR     = 	%
+IDENTIFIER   = 	x
+OPERATOR     = 	=
+IDENTIFIER   = 	a
+OPERATOR     = 	+
+IDENTIFIER   = 	b
+SEPARATOR    = 	;
+IDENTIFIER   = 	z
+OPERATOR     = 	=
+IDENTIFIER   = 	c
+OPERATOR     = 	+
+IDENTIFIER   = 	d
+SEPARATOR    = 	;
+IDENTIFIER   = 	a
+OPERATOR     = 	=
+IDENTIFIER   = 	e
+OPERATOR     = 	-
+IDENTIFIER   = 	f
+SEPARATOR    = 	;
+IDENTIFIER   = 	b
+OPERATOR     = 	=
+IDENTIFIER   = 	g
+OPERATOR     = 	*
+IDENTIFIER   = 	n
+SEPARATOR    = 	;

@@ -154,7 +154,11 @@ def removeComment(sourceCode):
                          end = commentIdx[i+1]
                          # print('begin = ', begin)
                          # print('end = ', end)
-                         sourceCode = sourceCode.replace(sourceCode[begin:end], (int(end) - int(begin))*' ')
+                         print('del code = ', sourceCode[begin:end])
+                         print ('begin = ', begin)
+                         print ('end = ', end)
+                         # print('begin:end = ', sourceCode[begin:(end+1)])
+                         sourceCode = sourceCode.replace(sourceCode[begin:(end+1)], (int(end) - int(begin))*' ')
                          i += 2
                          
                     # print('sourceCode = ', sourceCode)

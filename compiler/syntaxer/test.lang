@@ -1,18 +1,28 @@
+
 int a;
 bool b;
 float c;
 
 d = 1;
 e = 2.2;
-f = true;
-g = false;
 
 h = i;
-j = l;
-m = n;
 
-a > b
-a < b
 
-a >= b
-a <= b
+
+
+
+! this is comment for this sample test code the %% is optional to start!
+
+ 
+
+
+%%
+
+x=a + b;
+z=c+ d;
+a=e-f;
+b=g*n;
+
+
+

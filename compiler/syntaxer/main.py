@@ -78,14 +78,13 @@ def main():
 
     output.write('\n\n')
     output.write('===============================================\n')
-    output.write('Output file start here\n')
+    output.write('Output Lexer file start here\n')
     output.write('This part is added to separate every time compile if output file is not deleted\n')
     output.write('===============================================\n')
     output.write('\n\n')
     output.write('TOKEN \t\t\tLEXEME\n\n')
     i = 0
     while i < len(lexeme):
-
         # print(f'lexeme {i} = ', lexeme[i].keys, ' = ', lexeme[i]values)
         # print(f'lexeme {i} = ', lexeme[i])
         output.write(f'{list(lexeme[i].keys())[0]:<12} = \t{list(lexeme[i].values())[0]}\n')
@@ -101,7 +100,33 @@ def main():
     # ===============================================
     
     syntax = Syntaxer (lexeme)
-    syntax.syntaxer()
+    mySyntax = syntax.syntaxer()
+    print('mySyntax ======================================')
+    print(mySyntax)
+
+
+    output = open('outputSyntaxer.txt', 'a')
+    print('#' * 30)
+
+    output.write('\n\n')
+    output.write('===============================================\n')
+    output.write('Output Syntaxer file start here\n')
+    output.write('This part is added to separate every time compile if output file is not deleted\n')
+    output.write('===============================================\n')
+    output.write('\n\n')
+    # output.write('TOKEN \t\tBNF\n\n')
+    i = 0
+    while i < len(mySyntax):
+        for key, value in mySyntax[i].items():
+        
+        # print(f'lexeme {i} = ', lexeme[i].keys, ' = ', lexeme[i]values)
+        # print(f'lexeme {i} = ', lexeme[i])
+        # output.write(f'{list(mySyntax[i].keys())[0]:<12} = \t{list(mySyntax[i].values())[0]}\n')
+            output.write(f'{key:<12} = \t{value}\n')
+        
+        output.write('\n')
+        i += 1
+    print('#' * 30)
 
 
 

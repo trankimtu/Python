@@ -1,0 +1,45 @@
+
+
+===============================================
+Output Syntaxer file start here
+This part is added to separate every time compile if output file is not deleted
+===============================================
+
+
+Token        = 	Declaration
+BNF          = 	<Statement> -> <Declarative> 
+				 <Declarative> -> <Type> <ID> ;
+
+Token        = 	Declaration
+BNF          = 	<Statement> -> <Declarative> 
+				 <Declarative> -> <Type> <ID> ;
+
+Token        = 	Declaration
+BNF          = 	<Statement> -> <Declarative> 
+				 <Declarative> -> <Type> <ID> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+OPERATOR     = 	%
+
+OPERATOR     = 	%
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
+Token        = 	Assign
+BNF          = 	<Assign> -> <ID> = <Expression> ;
+
